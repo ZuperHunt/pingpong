@@ -5,7 +5,7 @@ Bab ini berisi pengenalan mengenai Pingpong
 
 ## [PingPong](https://www.pingpong.build/PingPongWhitepaperV0.1.2.pdf)
 > [!NOTE]
-> [The world's first DePIN liquidity aggregator. Turning computational resources into a new form of DeFi liquidity. Get the maximum DePIN mining yield from PINGPONG money market!]
+> The world's first DePIN liquidity aggregator. Turning computational resources into a new form of DeFi liquidity. Get the maximum DePIN mining yield from PINGPONG money market!
 
 # Tutorial Deploy Smart Contract
 Bab ini berisi tutorial cara menjalankan Light node
