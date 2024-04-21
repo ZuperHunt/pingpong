@@ -7,7 +7,7 @@ Bab ini berisi pengenalan mengenai Pingpong
 > [!NOTE]
 > The world's first DePIN liquidity aggregator. Turning computational resources into a new form of DeFi liquidity. Get the maximum DePIN mining yield from PINGPONG money market!
 
-# Tutorial Deploy Smart Contract
+# Tutorial Run Light node
 Bab ini berisi tutorial cara menjalankan Light node
 
 Mining Pingpong Pakai Narasi DEPIN
