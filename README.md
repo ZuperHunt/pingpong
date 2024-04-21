@@ -16,7 +16,8 @@ Mining Pingpong Pakai Narasi DEPIN
 
 - Daftar pakai google : https://harvester.pingpong.build/login
 - Pilih Tambah Perangkat dan atur nama perangkat
-- 
+
+
 ## Masuk VPS
 - Install Docker
 ```
