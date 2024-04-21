@@ -45,6 +45,7 @@ screen -S pingpong
 
 - Back ke : [Pingpong Device](https://harvester.pingpong.build/devices)
 - Input Nama
+- Pilih Usage Priority (Optional)
 - Klik LetsGO
 
 ## Help
