@@ -39,9 +39,9 @@ screen -S pingpong
 - Back ke [Pingpong Device](https://harvester.pingpong.build/devices)
 - Add Device
 - Copy Device_Id (jangan disimpan dulu)
-
-
-## Run PingPong with Device Id
+  
+## Run PingPong 
+Ganti Device_Id dengan Device id yang didapat dari web
 ```
 ./PINGPONG --key Device_Id
 ```
